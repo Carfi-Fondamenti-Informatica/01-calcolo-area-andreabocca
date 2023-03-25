@@ -15,8 +15,10 @@ int main(){
     rettangolo=a*b;
     trapezio=(((a+b)*c)/2);
 
-    cout<<"Area triangolo e\'"<<" "<<triangolo<<endl;
-    cout<<"Area quadrato e\'"<<" "<<quadrato<<endl;
-    cout<<"Area rettanglo e\'"<<" "<<rettangolo<<endl;
-    cout<<"Area trapezio e\'"<<" "<<trapezio<<endl;
+    cout<<triangolo<<endl;
+    cout<<quadrato<<endl;
+    cout<<rettangolo<<endl;
+    cout<<trapezio<<endl;
+    
+    return 0;
 }
